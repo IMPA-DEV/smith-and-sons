@@ -396,3 +396,41 @@ nav a.active{
 	color: #ffffff;
 	line-height: 1;
 }
+.offer-block{
+	width: 372px;
+	height: 426px;
+	padding: 30px 59px 0;
+	box-sizing: border-box;
+	border-style: solid;
+	border-width: 2px;
+	border-image-source: linear-gradient(to bottom, #17aba9, #7a306c);
+	border-image-slice: 1;
+}
+#offer{
+	padding: 135px 0;
+}
+#offer h2{
+	text-align: center;
+}
+.offer{
+	display: flex;
+	align-items: center;
+}
+.offer p{
+	line-height: 1.4;
+}
+.offer-center-wrap{
+	width: 400px;
+	height: 976px;
+	background-image: linear-gradient(to bottom, #17aba9, #7a306c);
+	border-style: solid;
+	border-width: 2px;
+	border-image-source: linear-gradient(to bottom, #17aba9, #7a306c);
+	border-image-slice: 1;
+	color: #ffffff;
+	display: flex;
+	align-items: center;
+}
+.offer-center{
+	padding: 12px;
+}
